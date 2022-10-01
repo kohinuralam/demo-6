@@ -1,0 +1,322 @@
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+
+	.project-left {
+		padding: 93px 20px 0 29px;
+	}
+
+	.project-left a {
+	    padding: 7px 25px;
+	    margin: 30px 0 0 0;
+	}
+
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+	.banner-right-cnt {
+	    right: 75px;
+	    top: -51px;
+	   
+		}
+
+	.banner-right-cnt h2 {
+	    font-size: 40px;
+	}
+
+	.banner-right-img img {
+	    max-width: 400px;
+	}
+
+	.about-item1 h2::after {
+	    left: 49%;
+	    top: 35px;
+	}
+
+	.about-item1 h2::before {
+	    left: 63%;
+	    top: 35px;
+	}
+
+	.about-item1 p br {
+	    display: none;
+	}
+
+	.service-upper h2::before {
+	    left: 32%;
+	    top: 53%;
+	}
+
+	.service-upper  h2::after {
+	    left: 24%;
+	    top: 53%;
+	}
+
+	.service-item p br {
+	  	display: none;
+	}
+
+	.assessment-item p br {
+		display: none;
+	}
+
+	.project-left {
+		padding: 93px 20px 0 29px;
+	}
+
+	.project-left a {
+	    padding: 7px 25px;
+	    margin: 30px 0 0 0;
+	}
+
+	.appoinment-left span {
+		font-size: 20px;
+	}
+
+}
+
+/*for-tablet-start*/
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+	.navbar-area {
+    	padding: 30px 0 30px 0;
+	}
+
+	.header-logo {
+	    display: block;
+	}
+
+	.navigation-left {
+		display: none;
+	}
+
+	
+	.menu-btn {
+		display: block;
+	}
+
+	.banner-right-cnt {
+	    right: 68px;
+	    top: -76px;
+	   
+		}
+
+	.banner-right-cnt h2 {
+	    font-size: 30px;
+	}
+
+	.banner-right-img img {
+	    z-index: -1;
+	    max-width: 320px;
+	}
+
+	.about-item1 h2::after {
+	    left: 50%;
+	    top: 35px;
+	}
+
+	.about-item1 h2::before {
+	    left: 65%;
+	    top: 35px;
+	}
+
+	.about-item1 h4 br {
+	   display: none;
+	}
+
+	.about-item1 p br {
+	    display: none;
+	}
+
+	.service-upper  h2::after {
+	    left: 24%;
+	    top: 53%;
+	}
+
+	.service-upper h2::before {
+	    left: 32%;
+	    top: 53%;
+	}
+
+	.service-item p br {
+	  	display: none;
+	}
+
+	.project-left {
+		padding: 93px 20px 0 39px;
+	}
+
+	.project-left a {
+	    padding: 7px 25px;
+	    margin: 30px 0 0 0;
+	}
+
+	.client-upper h2::after {
+	    left: 39%;
+	    top: 48px;
+	}
+
+	.client-upper h2::before {
+	    left: 57%;
+	    top: 48px;
+	}
+
+}
+
+/*for-mobil-start*/
+
+@media screen and (max-width: 768px) {
+
+	.navbar-area {
+    	padding: 30px 0 30px 0;
+	}
+
+	.navigation-left {
+		display: none;
+	}
+
+	.banner-area {
+		padding: 48px 0 174px 0;
+	}
+
+	.banner-left {
+		margin: 0 auto;
+	}
+
+	.banner-right {
+	    margin: 226px 0 0 0;
+		}
+
+		.banner-right-cnt {
+	    right: 68px;
+	    top: -76px;
+	   
+		}
+
+	.banner-right-cnt h2 {
+	    font-size: 30px;
+	}
+
+	.banner-right-img img {
+	    z-index: -1;
+	    max-width: 320px;
+	}
+
+	.about-area {
+	    padding: 25px 0 30px 0;
+	}
+
+	.about-item1 {
+	    margin: 20px 0 0 0;
+	}
+
+	.about-item1 h2::after {
+	    left: 49%;
+	    top: 35px;
+	}
+
+	.about-item1 h2::before {
+	    left: 63%;
+	    top: 35px;
+	}
+
+	.about-item1 h4 br {
+	   display: none;
+	}
+
+	.about-item1 p br {
+	    display: none;
+	}
+
+	.about-item2 {
+		margin: 35px 0 0 0;
+	}
+
+	.about-item3 {
+	    margin: 30px 0 0 0;
+	}
+
+	.service-area {
+		padding: 33px 0 26px 0;
+	}
+
+	.service-upper  h2::after {
+	    left: 48%;
+	    top: 53%;
+	}
+
+	.service-upper h2::before {
+	    left: 63%;
+	    top: 53%;
+	}
+
+	.service-item p br {
+	  	display: none;
+	}
+
+	.assessment-area {
+		padding: 45px 0 40px 0;
+	}
+
+	.assessment-item p br {
+		display: none;
+	}
+
+	.project-left {
+			 padding: 50px 20px 20px 32px;
+	}
+
+	.project-left a {
+		margin: 30px 0 0 0;
+	}
+
+	.client-area {
+	    padding: 45px 0 27px 0;
+	}
+
+	.client-upper h2 {
+	    font-size: 25px; 
+	    
+	}
+
+	.client-upper h2::after {
+	    left: 40%;
+	    top: 48px;
+	}
+
+	.client-upper h2::before {
+	    left: 59%;
+	    top: 48px;
+	}
+
+	.client-item p br {
+		display: none;
+	}
+
+	.client-item {
+		 margin: 137px 0 0 0;
+	}
+
+	.appoinment-left img {
+		margin: 0 auto;
+		display: block;
+	}
+
+	.appoinment-left span {
+		display: block;
+		text-align: center;
+		margin: 20px 0 0 0;
+		font-size: 20px;
+	}
+
+	.appoinment-right {
+		text-align: center !important;
+		margin: 20px 0 0 0;
+	}
+
+}
+
+
+
+		
+		         
